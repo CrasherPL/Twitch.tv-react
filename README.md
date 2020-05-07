@@ -1,6 +1,6 @@
 Aplikacja obsługująca zawartość strony Twitch.tv.
 
-W aplikacji mamy możliwość przejrzenia najpopularniejszych gier, w które obecnie grają osoby streamujące na stronie www.twitch.tv. Kategorie gier są ułożone od najbardziej popularnych :
+W aplikacji mamy możliwość przejrzenia najpopularniejszych gier, w które obecnie grają osoby streamujące na stronie www.twitch.tv. Kategorie gier są ułożone od najbardziej popularnych. Do aplikacji zostało podłączone API twitch.tv, które można znaleść na stronie https://dev.twitch.tv/.
 
 ![1](https://user-images.githubusercontent.com/45287842/81304916-fee5b480-907d-11ea-9d5a-0cbb928686e8.png)
 
